@@ -1,6 +1,6 @@
 # Public-Smart-Contracts
 Bipgo publics smart contracts
 
-##Comments:
+## Comments:
 
-###All our wallets are Gnosis Safe Address
+### All our wallets are Gnosis Safe Address
