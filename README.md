@@ -1,7 +1,7 @@
 # Public-Smart-Contracts
 Bipgo publics smart contracts
 
-- ##  Contracts:
+. ##  Contracts:
  - ### BgoToken 
 ## Comments:
 
